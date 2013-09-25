@@ -1,4 +1,4 @@
 teste
 =====
 
-Repositório criado para eu fazer testes.
+Repositório criado para ciro aprender a mexer no Git.

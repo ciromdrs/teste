@@ -1,4 +1,4 @@
 teste
 =====
 
-Repositório criado para ciro aprender a mexer no Git.
+Mexi no master e vou fazer 'git merge master' no branch ciro.
