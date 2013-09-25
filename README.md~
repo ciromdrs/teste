@@ -1,4 +1,4 @@
 teste
 =====
 
-Este repositório serve apenas para testes
+Repositório criado para eu fazer testes.
